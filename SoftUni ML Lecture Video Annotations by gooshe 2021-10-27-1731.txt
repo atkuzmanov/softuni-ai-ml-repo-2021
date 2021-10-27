@@ -1,0 +1,81 @@
+
+
+
+--Lection 4
+
+18:18 - остатъчна корелация
+19:05 - грейдиен десент
+19:19 - лин регр вс гредиент десент
+19:32 - ensamble conversions
+20:06 - normalization and standartization
+20:17 - skalirane na izhoda
+20:30 - intercept
+20:43 - Ransac
+21:14 - Теорема на Кавър
+21:20 - GLM
+
+--Lection 5
+18:25 - разлика между моделираща функция и функция на грешката
+18:27 - cross entropy
+xkcd.com
+19:10 - project descr
+19:25 - bias vs variance
+19:56 - вкарване на различни biasses
+20:01 - регуляризация
+20:50 - сравняване на оценки
+21:03 - стратифицирана извадка (избираме трейн и тест сплит сами)
+21:12 - резидюъл
+21:22 - дисбаланс в двата класа при класификация
+
+--Lection 6
+18:10 - true/false positive/negative
+18:27 - sensitivity and specifity
+18:35 - случаен шум
+18:48 - heteroskedastic
+19:04 - bootstrapping
+19:41 - дървета и ансамбли
+19:58 - избиране на основен нод в дървото
+20:10 - примери за дървета
+20:18 - decision_path
+20:31 - да видим фийчърите с импортанса в едно
+20:37 - if-овете винаги дават ортогонално сегментиране на данните
+20:46 - forest
+20:54 - пример forest
+21:13 - ada boost example
+?? confusion matrix
+
+--Lection 7
+19:41 - Support vector machine
+20:06 - polynomial features
+20:10 - Cover's theorem
+20:25 - SVM show
+20:45 - gamma
+20:50 - knn
+20:59 - предимства на knn
+21:21 - Voronol
+21:27 - Outliers vs anomaly
+21:38 - SVM anomaly
+
+Lection extra
+18:29 - Bernoulli
+18:38 - верига на Марков
+20:51 - residual plot
+
+Lection 8
+18:18 - преговор на SVM
+18:31 - метод на максималното правдоподобие
+18:40 - типове classifiers
+18:47 - изпит насоки
+18:54 - комбиниране на препроцесинг
+18:59 - Clustering
+19:18 - k-Means
+19:51 - k-Means example
+20:12 - make_circles dataset
+20:31 - make_moons
+20:39 - Elbow method - 
+20:53 - Силует плот
+21:02 - Hierarchical Clustering
+21:15 - Dendrograms
+21:19 - DBSCAN
+21:30 - Clustering and Classification
+
